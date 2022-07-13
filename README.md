@@ -9,7 +9,7 @@ Time-Traveling Queries demostration ESUG 2022
 
 [Video Original Speed with Captions](https://drive.google.com/file/d/1LlNiDW1qqXTD-asBLoMGnfSSJXO7nTDg/view?usp=sharing)
 
-## Referenced publication
+## Reference publication
 
 * [Time-Traveling Debugging Queries: Faster Program Exploration @ IEEE](https://ieeexplore.ieee.org/document/9724738)  
 * [Pre-print version](https://hal.inria.fr/hal-03463047/)
