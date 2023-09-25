@@ -3,11 +3,9 @@ Time-Traveling Queries demostration ESUG 2022
 
 ## Video Demo
 
-[View Video](https://drive.google.com/file/d/12MlQZO9X1WN7e1LUqm5p0E-x8VJXQz0h/view?usp=sharing)
+[View Video](https://youtu.be/cgYY-nNjnsA?si=3S06msmPS6sNQySK)
 
 [Video - Slower silent demo with captions](https://drive.google.com/file/d/1vc97XggNn43VJl8Afs8W97QLJ0OgRYud/view?usp=sharing)
-
-[Video Original Speed with Captions](https://drive.google.com/file/d/1LlNiDW1qqXTD-asBLoMGnfSSJXO7nTDg/view?usp=sharing)
 
 ## Reference publication
 
